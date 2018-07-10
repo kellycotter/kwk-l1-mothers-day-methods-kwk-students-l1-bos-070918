@@ -9,7 +9,7 @@ mothers_day
 
 
 
-def mothers_day(moms_name="Mom")
+def mothers_day(moms_name="Beyonce")
   puts "Happy Mother's Day, #{moms_name}!"
 end
 
