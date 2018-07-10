@@ -2,22 +2,19 @@
 
 
 def mothers_day
-  puts "Happy Mother's Day, Mom"
+   "Happy Mother's Day, Mom"
 end
-
-mothers_day
-
 
 
 def mothers_day(moms_name="Beyonce")
-  puts "Happy Mother's Day, #{moms_name}!"
+   "Happy Mother's Day, #{moms_name}!"
 end
 
 mothers_day
 
 
 def mothers_day(name)
-  puts "Happy Mother's Day, #{name}"
+   "Happy Mother's Day, #{name}"
 end
 
 mothers_day("Mom")
